@@ -123,14 +123,14 @@ This script generates:
 
 ### Flight Difficulty Categories and Weights
 
-| Category                | Weight | Justification                                        |
-| ----------------------- | ------ | ---------------------------------------------------- |
-| Ground Time Constraints | 26.8%  | ICAS research: Critical path in air traffic networks |
-| Baggage Processing      | 21.6%  | Industry studies: Bottleneck in 60% of turnarounds   |
-| Operational Congestion  | 18.5%  | FAA research: Primary complexity driver              |
-| Passenger Services      | 14.8%  | Research: Special services add 3–8 min turnaround    |
-| Process Dependencies    | 13.1%  | EUROCONTROL: 35% of delay variance from coordination |
-| Aircraft/Route Factors  | 5.3%   | Fixed constraints with limited variability           |
+| Category                | Weight |
+| ----------------------- | ------ |
+| Ground Time Constraints | 31.5%  |
+| Traffic & Congestion    | 22.1%  |
+| Operational Complexity  | 19.6%  |
+| Aircraft & Route        | 12.3%  |
+| Passenger Service Needs | 07.6%  |
+| Process Dependencies    | 06.8%  |
 
 ---
 
