@@ -1,6 +1,6 @@
 # United Airlines Flight Difficulty Scoring System
 
-## Competition Overview
+## Competition Overview 
 
 This project was developed for **SkyHack 3.0: United Airlines Hackathon (October 3–5, 2025)**.
 The goal is to create a **data-driven framework** that systematically quantifies **flight operational complexity** using real airport data from **Chicago O'Hare International Airport (ORD)**.
